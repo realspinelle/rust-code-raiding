@@ -7,7 +7,7 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "svelt-tauri",
+    "productName": "rust-coderaid",
     "version": "0.1.0"
   },
   "tauri": {
@@ -57,7 +57,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "svelt-tauri",
+        "title": "rust-coderaid",
         "height": 500,
         "width": 400,
         "minHeight": 500,
